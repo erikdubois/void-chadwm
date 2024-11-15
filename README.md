@@ -1,7 +1,7 @@
 <h1 align="center">
- <img src="https://github.com/erikdubois/mint-chadwm/blob/main/logo.svg">
+ <img src="https://github.com/erikdubois/void-chadwm/blob/main/logo.svg">
   <br />
-   Linux Mint LMDE Chadwm
+   Void linux Chadwm
 </h1>
 
 # Chadwm is a fork from Dwm
