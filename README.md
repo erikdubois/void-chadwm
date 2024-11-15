@@ -15,10 +15,13 @@ The code can be found as part of ArcoLinux Nemesis here:
 
 https://github.com/erikdubois/arcolinux-nemesis/tree/master/Personal/settings/
 
+Find the folder with the name of the distro + chadwm and go inside the folder.
 
-Type in a terminal
+Open a terminal in that folder and run the starting script.
 
-./1 and press twice on TAB and it will run the scripts. Decide what to run is also an option ofcourse.
+./1 and press twice on TAB and it will run the scripts. 
+
+Or choose the scripts you want to run.
 
 
 # Youtube
