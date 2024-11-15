@@ -6,15 +6,14 @@
 
 # Chadwm is a fork from Dwm
 
-At ArcoLinux we created our own take on this TWM. That is what we will install on any Linux Mint and so many things more.
-Until it is quite perfect for our use.
+At ArcoLinux, we have developed our own version of this TWM, tailored to meet our specific needs. We install and refine it on any Linux system until it meets our standards of perfection.
 
 
 # CODE
 
 The code can be found as part of ArcoLinux Nemesis here:
 
-https://github.com/erikdubois/arcolinux-nemesis/tree/master/Personal/settings/lmde6-chadwm
+https://github.com/erikdubois/arcolinux-nemesis/tree/master/Personal/settings/
 
 
 Type in a terminal
